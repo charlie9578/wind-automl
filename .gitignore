@@ -4,3 +4,5 @@
 *.pkl
 /AutogluonModels
 /images
+*.grib
+*.idx
